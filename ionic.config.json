@@ -1,0 +1,8 @@
+{
+  "name": "bbv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "58e25e31"
+}
